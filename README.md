@@ -2,7 +2,9 @@
 A container that provides Wordpress, WooCommerce and the Wirecard extension with all versions
 
 # Usage
-1. Edit the variables in .env to your needs
+Precondition: docker and docker-compose is installed
+
+1. Edit the variables in .env to your needs (for example with ```vim .env```)
    - Use the versions numbers from the following sources:
      - Wordpress: https://hub.docker.com/_/wordpress?tab=tags (use the tag name that contains the PHP and wordpress version of your choice)
      - WooCommerce: https://wordpress.org/plugins/woocommerce/advanced/ (scroll down to the versions dropdown)
