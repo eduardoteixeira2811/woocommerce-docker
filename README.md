@@ -26,5 +26,4 @@ Change the following variables in .env file:
 Change the following variables in .env file:
 - WORDPRESS_VERSION=5.5.0-php7.3
 - WOOCOMMERCE_VERSION=4.4.0-beta.1
-- WIRECARD_VERSION=3.3.4
-
+- WIRECARD_VERSION=3.3.4git clone https://github.com/mschweighofer/woocommerce-docker.git
